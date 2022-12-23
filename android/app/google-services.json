@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "435853669952",
+    "firebase_url": "https://tigip-66336-default-rtdb.firebaseio.com",
+    "project_id": "tigip-66336",
+    "storage_bucket": "tigip-66336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435853669952:android:8f30b775ab2aa2dee9d1a5",
+        "android_client_info": {
+          "package_name": "com.asdevelopersbytigipbyshivam.tigips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435853669952-bobjqrc6fqdbc06rq01qprfkdjji5hsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asdevelopersbytigipbyshivam.tigips",
+            "certificate_hash": "b5e4b1f526792a76b46ebef1d4bbeb381f46c04b"
+          }
+        },
+        {
+          "client_id": "435853669952-qfrk7rr4qlha5hmk3c89jn8pb9fmklgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXlYgjBbjBlRaEZBpOJiR9Y2rbBT_p-NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435853669952-qfrk7rr4qlha5hmk3c89jn8pb9fmklgn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435853669952-a9jbvla0isfs7v8bkiq79j4ma26mffti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asdevelopersbytigipbyshivam.tigips"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
